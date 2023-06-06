@@ -2,6 +2,10 @@
 
 Uma implementação simples do algoritmo backpropagation para a disciplina de RNA do PPGEE/UFPA.
 
+# Instalação
+
+Executar `setup.py` para instalar as bibliotecas nescessárias para o projeto.
+
 # Como executar
 
 `simple_backpropagation.py --i (int) --h (int) --o (int) --ep (int) --sd (int) --pa (int) --lr (float) --h_func (str) --o_func (str) --pf (str)`
